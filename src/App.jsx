@@ -2,7 +2,7 @@ import './App.css'
 import io from 'socket.io-client'
 import { useEffect, useState } from 'react'
 
-const socket = io('http://localhost:3000')
+const socket = io('https://sample-chat-app-je4y.onrender.com')
 function App() {
 
   const [input, setInput] = useState('');
