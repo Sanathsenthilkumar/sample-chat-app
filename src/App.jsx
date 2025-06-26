@@ -52,3 +52,6 @@ export default App
 
 
 //netlify, render, vercel.
+
+//npm run build
+//git init
